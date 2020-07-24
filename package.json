@@ -17,6 +17,7 @@
     "coverage": "jest --coverage --passWithNoTests"
   },
   "dependencies": {
+    "@patternfly/react-core": "^4.32.1",
     "@reach/router": "1.3.4",
     "copy-webpack-plugin": "6.0.2",
     "react": "^16.13.1",
